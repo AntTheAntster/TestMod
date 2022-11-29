@@ -25,6 +25,7 @@ public class TestMod  {
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    //Add a Comment
     public TestMod()
     {
         // Register the setup method for modloading
